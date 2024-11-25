@@ -3,6 +3,7 @@
 :root {
   --bg: #211e2e;
   --prime-color: #8176af;
+  --light-prime-color: #c0b7e8;
   --text-color: white;
 }
 * {
