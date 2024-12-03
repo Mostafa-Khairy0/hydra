@@ -1,9 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&family=El+Messiri:wght@400..700&family=Geist+Mono:wght@100..900&family=Zain:wght@200;300;400;700;800;900&display=swap");
 
 :root {
-  --bg: #211e2e;
+  --bg: #302c42;
   --prime-color: #8176af;
   --light-prime-color: #c0b7e8;
+  --dark-color: #211e2e;
+  --semi-dark-color: #3a3456;
   --text-color: white;
 }
 * {
